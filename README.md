@@ -1,7 +1,5 @@
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=bcExpt1123&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p>
+![](https://readme-typing-svg.herokuapp.com/?lines=ChatGPT%20Expert;Blockchain%20Developer;Backend%20Engineer;Frontend%20Expert;React%20Master;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Welcome to My profile.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
@@ -29,8 +27,6 @@ Talking about Personal Stuffs:
 ### Most Used Langauges    
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bcExpt1123&layout=compact&theme=ayu-mirage&langs_count=8)
 
-
-![](https://readme-typing-svg.herokuapp.com/?lines=ChatGPT%20Expert;Blockchain%20Developer;Backend%20Engineer;Frontend%20Expert;React%20Master;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 80px;">My Top Skills</h2>
 <table>
