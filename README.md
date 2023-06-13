@@ -27,9 +27,6 @@ Talking about Personal Stuffs:
 
 <i>LOOKING FOR OPPORTUNITY TO CONTRIBUTE TO PROFESSIONAL PROJECTS.</i>
 <div align="center">
-    
-### Most Used Langauges    
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bcExpt1123&layout=compact&theme=ayu-mirage&langs_count=8)
 
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 80px;">My Top Skills</h2>
