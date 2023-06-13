@@ -13,17 +13,15 @@
 
 Talking about Personal Stuffs:
 
-- I'm a rich experienced full-stack developer for large projects and ready to start your project anytime.
+- I'm a rich experienced developer for large projects and ready to start your project anytime.
 - Enterprise application development and support like <b>Metaverse</b> : WebGL + Blockchain + Frontend/Backend 
 - <b>AI</b> : OpenAI, ChatGPT, San Francisco GPT, Census GPT, GPT-3, GPT-4, LangChain, 
 - <b>Blockchain</b> : Bitcoin | Ethereum | BSC | Polygon | Solana | Near | Hedera -  Smart contract | Dapp | DeFi | Dex | GameFi
 - <b>Front-end</b> : Reactjs | Next.js | Vuejs | Angular |  Svelte | JS/TS | TailWind CSS | Material | Styled Components | Bootstrap | Antd 
-- <b>Back-end</b> : Node | Express | Django | ASP.NET | Laravel | CodeIgniter | Nest
-- <b>3D</b> : AR | VR | XR - Three.js | D3.js
+- <b>Back-end</b> : Node | Express | Django | Laravel | CodeIgniter
 - <b>Mobile</b> : React-Native | Expo | EAS | Ionic
-- <b>Database</b> : Elasticsearch | Mysql | MongoDB | PostgreSQL | Firebase | Firestore
+- <b>Database</b> : Elasticsearch | Mysql | MongoDB | PostgreSQL | Firebase
 - <b>Linux System</b> : SUSE | CentOS | RedHat | Ubuntu
-- <b>Others</b> : Docker | Docker-Compose | Swagger | Devops | Cicd | QA | GraphQL
 - Git, Github, BitBucket, Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Heroku, Jira, Trello, Pusher Digital-Ocean, Github Action, and so on.
 - Agile Methodology, Scrum Meeting
 
