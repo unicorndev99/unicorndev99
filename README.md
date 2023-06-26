@@ -32,6 +32,7 @@ Talking about Personal Stuffs:
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 80px;">My Top Skills</h2>
 <table>
     <tr>
+        <td><img src="https://icons8.com/icon/iGqse5s20iex/chatgpt" title="ChatGPT" width="100" alt="ChatGPT"></td>
         <td><img src="https://img.icons8.com/ios/452/solidity.png" title="Solidity" width="100" alt="Solidity"></td>
         <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" title="Rust" width="100" alt="Rust"></td>
         <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" width="100" alt="React.js"></td>
