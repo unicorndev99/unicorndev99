@@ -32,7 +32,7 @@ Talking about Personal Stuffs:
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 80px;">My Top Skills</h2>
 <table>
     <tr>
-        <td><img src="https://icons8.com/icon/iGqse5s20iex/chatgpt" title="ChatGPT" width="100" alt="ChatGPT"></td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRabdp55k_LqswPzoS-_Tt9XeoDsJvOebbCR7HsfEoBs4v1jvATvCjoK5PI27s6ikmwOdw&usqp=CAU" title="ChatGPT" width="100" alt="ChatGPT"></td>
         <td><img src="https://img.icons8.com/ios/452/solidity.png" title="Solidity" width="100" alt="Solidity"></td>
         <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" title="Rust" width="100" alt="Rust"></td>
         <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" width="100" alt="React.js"></td>
@@ -41,7 +41,6 @@ Talking about Personal Stuffs:
         <td><img src="https://img.icons8.com/color/2x/html-5.png" title="HTML5" width="100" alt="HTML5"></td>
         <td><img src="https://img.icons8.com/color/2x/css3.png" title="CSS3" width="100" alt="CSS3"></td>
         <td><img src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap" width="100" alt="Bootstrap"></td>
-        <td><img src="https://img.icons8.com/color/2x/sass.png" title="Sass" width="100" alt="Sass"></td>
         <td><img src="https://img.icons8.com/nolan/2x/javascript.png" title="JavaScript" width="100" alt="JavaScript"></td>
     </tr>
     <tr>
