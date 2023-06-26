@@ -68,5 +68,3 @@ Talking about Personal Stuffs:
         <td><img src="https://img.icons8.com/color/452/amazon-web-services.png" title="Amazon Web Service" width="100" alt="Amazon Web Service"></td>
     </tr>
 </table>
-
-![](./gifs/code.gif)
